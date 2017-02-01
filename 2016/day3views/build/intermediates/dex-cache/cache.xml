@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7545c4b333ee38f326d36ed92ee3e9aabe91314b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc9b946341eec123b509665bbe9abe5dc9eff72">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1eab072f78fac930e690f62de0ecd35fdcddd13b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6870f00b9388b1d78a8bef09b0fa9957cf9c33f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_7022c44d533d4ca8ca18cac0f28b756831f0672f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_0c3f323d7ba74d0eaa3298217313ca304032f184/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b910e2b32373aa9522bbd475161c0c9160e23a25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_7e7ec0ab982f118817e46fe1909321a3d84b7e5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_9b4be655df4d67c17ca9abf8739ec595187e98e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3d9159a64362a8f01df80490fcb5134fd5a81459/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aee86b898e668de1a964e3f5ebc5eed940281c6b">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_66b0fabb88f491b23745ed8ef61b84d14a02be9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_c9a7cc243c2dd1550d5145f2e93e1ec5a7324785/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_059771f9fec12f80b3d555eba7dd22e3573cce63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_58bfa4702b67d037eb624d7d70ef1931915cb2a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_68eb475b27fba83e190e0d85c1c17f107a834ec5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_b040a5beb7d91c5ef837a3fd203ad2c77fc39aee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_e08d54d1d4534a3bd60744fd047cddc455611e29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jsalcido/dev/AndroidStudioProjects/AndroidSchoolViewsAndViewGroups/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_59a1fb023f2ade3811623a045d94a544e1ff42c2/classes.dex" />
+    </item>
+
+</items>
